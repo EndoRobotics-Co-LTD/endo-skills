@@ -25,7 +25,7 @@
 
 | Skill | 한 줄 설명 | 상태 | 상세 |
 |---|---|---|---|
-| **`ppt-brand-design`** | EndoRobotics 표준 PPT 빌더. 14종 레이아웃, 듀얼 테마(theme1/theme2), PowerPoint 데스크톱과 실시간 페어 워크플로우 | ✅ v0.1.0 | [`skills/ppt-brand-design/`](skills/ppt-brand-design/) |
+| **`ppt-brand-design`** | EndoRobotics 표준 PPT 제작 스킬, 2개의 브랜드 디자인 구현 가능 | ✅ v0.1.0 | [`skills/ppt-brand-design/`](skills/ppt-brand-design/) |
 | **`html-report`** | EndoRobotics 표준 HTML 보고서 제작 스킬 | ✅ v0.1.0 | [`skills/html-report/`](skills/html-report/) |
 | **`structured-writing`** | 한국어 구조적 글쓰기. 한 단위 한 메시지·대조('A가 아니라 B')·쉽지만 정확한 말·군더더기 제거로 보고서·제안·발표·회의록의 논지를 세움 (의존성 0) | ✅ v0.1.0 | [`skills/structured-writing/`](skills/structured-writing/) |
 | *(추후 추가)* | 회사가 자주 하는 다른 업무들 — ERP 연동, 데이터 정리 등 | 🔜 | — |
