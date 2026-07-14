@@ -27,7 +27,7 @@
 |---|---|---|---|
 | **`ppt-brand-design`** | EndoRobotics 표준 PPT 제작 스킬, 2개의 브랜드 디자인 구현 가능 | ✅ v0.1.0 | [`skills/ppt-brand-design/`](skills/ppt-brand-design/) |
 | **`html-report`** | EndoRobotics 표준 HTML 보고서 제작 스킬 | ✅ v0.1.0 | [`skills/html-report/`](skills/html-report/) |
-| **`structured-writing`** | 한국어 구조적 글쓰기. 한 단위 한 메시지·대조('A가 아니라 B')·쉽지만 정확한 말·군더더기 제거로 보고서·제안·발표·회의록의 논지를 세움 (의존성 0) | ✅ v0.1.0 | [`skills/structured-writing/`](skills/structured-writing/) |
+| **`structured-writing`** | 한국어 전용 구조적 글쓰기 스킬. 불필요한 미사여구를 줄이고, 항상 하나의 논점을 가지도록 구성 | ✅ v0.1.0 | [`skills/structured-writing/`](skills/structured-writing/) |
 | *(추후 추가)* | 회사가 자주 하는 다른 업무들 — ERP 연동, 데이터 정리 등 | 🔜 | — |
 
 각 스킬의 사용법·요구사항·문제 해결은 해당 폴더의 `README.md` 에서 확인하세요.
